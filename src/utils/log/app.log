@@ -1,0 +1,21 @@
+2025-11-08 14:14:36 | ERROR | 'username'
+2025-11-08 14:14:36 | ERROR | Traceback (most recent call last):
+  File "F:\03 - Python\03 - FLASK\05 - Proyecto personal\flask-proyecto-jwt-modular-logs\src\routes\AuthRoutes.py", line 20, in login
+    username = request.json['username']
+               ~~~~~~~~~~~~^^^^^^^^^^^^
+KeyError: 'username'
+
+2025-11-08 14:14:41 | ERROR | 'username'
+2025-11-08 14:14:41 | ERROR | Traceback (most recent call last):
+  File "F:\03 - Python\03 - FLASK\05 - Proyecto personal\flask-proyecto-jwt-modular-logs\src\routes\AuthRoutes.py", line 20, in login
+    username = request.json['username']
+               ~~~~~~~~~~~~^^^^^^^^^^^^
+KeyError: 'username'
+
+2025-11-08 14:14:50 | ERROR | 'username'
+2025-11-08 14:14:50 | ERROR | Traceback (most recent call last):
+  File "F:\03 - Python\03 - FLASK\05 - Proyecto personal\flask-proyecto-jwt-modular-logs\src\routes\AuthRoutes.py", line 20, in login
+    username = request.json['username']
+               ~~~~~~~~~~~~^^^^^^^^^^^^
+KeyError: 'username'
+
